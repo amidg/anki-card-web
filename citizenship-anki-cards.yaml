@@ -1,0 +1,633 @@
+cards:
+  1:
+    category: "rights"
+    question: "In Canada, which English document from 1215 began the \"800-year tradition of ordered liberty\"?"
+    answer: "Magna Carta (also known as the Great Charter of Freedoms)"
+  2:
+    category: "rights"
+    question: "In Canadian law, what is habeas corpus?"
+    answer: "The right to challenge unlawful detention by the state (from English common law)"
+  3:
+    category: "rights"
+    question: "In what year was the Constitution of Canada amended to entrench the Canadian Charter of Rights and Freedoms?"
+    answer: "1982"
+  4:
+    category: "rights"
+    question: "The Charter begins: \"Whereas Canada is founded upon principles that recognize the supremacy of God and ___\" — what completes this phrase?"
+    answer: "The rule of law"
+  5:
+    category: "rights"
+    question: "According to the citizenship study guide, what are the FOUR fundamental freedoms Canadians enjoy? [closed set — mirrors a sample test question]"
+    answer: "Freedom of conscience and religion; freedom of thought, belief, opinion and expression (incl. speech and press); freedom of peaceful assembly; freedom of association"
+  6:
+    category: "rights"
+    question: "Under the Charter's mobility rights, Canadians may live and work where?"
+    answer: "Anywhere they choose in Canada (they may also enter/leave the country freely and apply for a passport)"
+  7:
+    category: "rights"
+    question: "According to the citizenship study guide, what are the SIX responsibilities of citizenship? [closed set — a sample question asks you to name three]"
+    answer: "Obeying the law; taking responsibility for oneself and one's family; serving on a jury; voting in elections; helping others in the community; protecting and enjoying Canada's heritage and environment"
+  8:
+    category: "rights"
+    question: "In Canada, what does the rule of law mean?"
+    answer: "Individuals and governments are regulated by laws, not by arbitrary actions — no person or group is above the law"
+  9:
+    category: "rights"
+    question: "In Canada, when you are called to serve on a jury, is it a legal obligation?"
+    answer: "Yes — it is legally required (a privilege that makes the justice system work)"
+  10:
+    category: "rights"
+    question: "Does Canada have compulsory military service?"
+    answer: "No (serving in the Canadian Forces or cadets is voluntary)"
+  11:
+    category: "rights"
+    question: "According to the study guide, what does the equality of women and men mean in Canada?"
+    answer: "Men and women are equal under the law; Canada's openness does not extend to gender-based violence (spousal abuse, \"honour killings\", FGM, forced marriage), which is severely punished under criminal law"
+  12:
+    category: "identity"
+    question: "What are Canada's three founding peoples?"
+    answer: "Aboriginal, French and British"
+  13:
+    category: "identity"
+    question: "What three distinct groups make up today's Aboriginal peoples in Canada?"
+    answer: "First Nations (formerly \"Indian\"), the Métis and the Inuit"
+  14:
+    category: "identity"
+    question: "What does the word \"Inuit\" mean in the Inuktitut language?"
+    answer: "\"The people\""
+  15:
+    category: "identity"
+    question: "Who are the Métis, according to the citizenship study guide?"
+    answer: "A distinct people of mixed Aboriginal and European ancestry; most live in the Prairie provinces; they speak their own dialect, Michif"
+  16:
+    category: "identity"
+    question: "What are Canada's two official languages?"
+    answer: "English and French (equal status in Parliament and throughout the government)"
+  17:
+    category: "identity"
+    question: "Which is the only officially bilingual province in Canada?"
+    answer: "New Brunswick"
+  18:
+    category: "identity"
+    question: "Who were the Acadians, and what was the \"Great Upheaval\"?"
+    answer: "Descendants of French colonists who settled the Maritimes from 1604; between 1755 and 1763 more than two-thirds were deported from their homeland — that ordeal was the \"Great Upheaval\""
+  19:
+    category: "identity"
+    question: "What religious grouping do the great majority of Canadians identify as?"
+    answer: "Christian (Catholic is the largest affiliation, followed by various Protestant churches)"
+  20:
+    category: "history"
+    question: "Why did Europeans call Canada's native peoples \"Indians\"?"
+    answer: "The first explorers thought they had reached the East Indies"
+  21:
+    category: "history"
+    question: "In 1497, who was the first to map Canada's East Coast and claim the land for England?"
+    answer: "John Cabot (an Italian immigrant to England)"
+  22:
+    category: "history"
+    question: "Where did the name \"Canada\" come from?"
+    answer: "Jacques Cartier heard two captured guides use the Iroquoian word \"kanata,\" meaning \"village\"; by the 1550s \"Canada\" appeared on maps"
+  23:
+    category: "history"
+    question: "Between 1534 and 1542, Jacques Cartier made three voyages claiming the land for which country?"
+    answer: "France (for King Francis I)"
+  24:
+    category: "history"
+    question: "The Viking settlement of l'Anse aux Meadows (Newfoundland) is what kind of site today?"
+    answer: "A World Heritage site"
+  25:
+    category: "history"
+    question: "In 1608, Samuel de Champlain built a fortress at which city?"
+    answer: "Québec City"
+  26:
+    category: "history"
+    question: "The Iroquois were a confederation of how many First Nations?"
+    answer: "Five (later six)"
+  27:
+    category: "history"
+    question: "In what year was the Hudson's Bay Company granted exclusive trading rights over the watershed draining into Hudson Bay?"
+    answer: "1670 (by King Charles II of England)"
+  28:
+    category: "history"
+    question: "At the 1759 Battle of the Plains of Abraham at Québec City, which side won and what did it mark?"
+    answer: "The British defeated the French — marking the end of France's empire in America"
+  29:
+    category: "history"
+    question: "Which two commanders were killed leading their troops at the Battle of the Plains of Abraham?"
+    answer: "Brigadier James Wolfe (British) and the Marquis de Montcalm (French)"
+  30:
+    category: "history"
+    question: "What did the Quebec Act of 1774 allow for Catholics in Quebec?"
+    answer: "Religious freedom and the right to hold public office; it restored French civil law while maintaining British criminal law"
+  31:
+    category: "history"
+    question: "Who were the United Empire Loyalists?"
+    answer: "More than 40,000 people loyal to the Crown who fled the American Revolution to settle in Nova Scotia and Quebec (Joseph Brant led Loyalist Mohawks; ~3,000 were black Loyalists)"
+  32:
+    category: "history"
+    question: "In what year did Upper Canada become the first province in the Empire to move toward abolishing slavery?"
+    answer: "1793 (led by Lieutenant Governor John Graves Simcoe)"
+  33:
+    category: "history"
+    question: "In what year did Britain abolish slavery throughout the Empire?"
+    answer: "1833 (in 1807 Parliament had prohibited buying and selling of slaves)"
+  34:
+    category: "history"
+    question: "What was the Underground Railroad in this context?"
+    answer: "A Christian anti-slavery network through which thousands of escaped U.S. slaves followed \"the North Star\" and settled in Canada"
+  35:
+    category: "history"
+    question: "Who supported British soldiers in defending Canada in the War of 1812?"
+    answer: "Canadian volunteers and First Nations (including the Shawnee led by Chief Tecumseh)"
+  36:
+    category: "history"
+    question: "In July 1812, which general captured Detroit — and where was he killed?"
+    answer: "Major-General Sir Isaac Brock; at Queenston Heights near Niagara Falls"
+  37:
+    category: "history"
+    question: "What was Laura Secord's contribution in the War of 1812?"
+    answer: "She walked ~30 km (19 miles) on foot to warn of a planned American attack; her bravery contributed to victory at Beaver Dams"
+  38:
+    category: "history"
+    question: "What was the key outcome of the War of 1812 for Canada?"
+    answer: "The American attempt to conquer Canada failed — Canada remained independent of the United States"
+  39:
+    category: "history"
+    question: "After the rebellions of 1837–38, what did Lord Durham recommend?"
+    answer: "That Upper and Lower Canada be merged and given responsible government (he controversially also recommended assimilation into English-speaking Protestant culture)"
+  40:
+    category: "history"
+    question: "What does the term \"responsible government\" mean?"
+    answer: "The ministers of the Crown must have the support of a majority of the elected representatives in order to govern; if the government loses a confidence vote it must resign"
+  41:
+    category: "history"
+    question: "In what year were Upper and Lower Canada united as the Province of Canada?"
+    answer: "1840"
+  42:
+    category: "history"
+    question: "Who was Sir Louis-Hippolyte La Fontaine?"
+    answer: "A champion of democracy and French language rights; he became the first leader of a responsible government in the Canadas (1849)"
+  43:
+    category: "history"
+    question: "What does \"Confederation\" mean?"
+    answer: "The coming together to form a country: in 1867 four provinces joined under the British North America Act to create the Dominion of Canada"
+  44:
+    category: "history"
+    question: "Which four provinces formed the new country at Confederation in 1867?"
+    answer: "Ontario, Quebec, Nova Scotia and New Brunswick"
+  45:
+    category: "history"
+    question: "On what date was the Dominion of Canada officially born?"
+    answer: "July 1, 1867 (the British North America Act; \"Dominion Day\" until 1982, now Canada Day)"
+  46:
+    category: "history"
+    question: "How many levels of government did the Fathers of Confederation create?"
+    answer: "Two — federal and provincial"
+  47:
+    category: "history"
+    question: "Who was Canada's first Prime Minister?"
+    answer: "Sir John A. Macdonald (born in Scotland, January 11, 1815; his portrait is on the $10 bill)"
+  48:
+    category: "history"
+    question: "After the Métis uprising of 1869–70 led by Louis Riel, which new province was established in 1870?"
+    answer: "Manitoba (Riel is regarded as its \"father\")"
+  49:
+    category: "history"
+    question: "The second Métis resistance occurred in 1885 — what was the outcome for Louis Riel?"
+    answer: "His trial and execution for high treason (in present-day Saskatchewan; strongly opposed in Quebec)"
+  50:
+    category: "history"
+    question: "What was the North West Mounted Police (founded 1873), and what is it called today?"
+    answer: "The NWMP — today the Royal Canadian Mounted Police (RCMP, \"the Mounties\"), Canada's national police force, headquartered in Regina"
+  51:
+    category: "history"
+    question: "What did the completed Canadian Pacific Railway symbolize?"
+    answer: "Unity — a powerful national symbol connecting the country from sea to sea (\"ribbons of steel\" that fulfilled a national dream)"
+  52:
+    category: "history"
+    question: "On November 7, 1885, who drove the last spike of the CPR?"
+    answer: "Donald Smith (Lord Strathcona), director of the Canadian Pacific Railway"
+  53:
+    category: "history"
+    question: "Who was Sir Wilfrid Laurier?"
+    answer: "The first French-Canadian prime minister since Confederation (he encouraged immigration to the West); his portrait is on the $5 bill"
+  54:
+    category: "history"
+    question: "What followed Canada's stock market crash of 1929?"
+    answer: "The Great Depression (\"Dirty Thirties\") — unemployment reached 27% in 1933; Western farmers hit hardest by drought and low grain prices"
+  55:
+    category: "history"
+    question: "In April 1917 the Canadian Corps captured Vimy Ridge — what did it mean for Canada?"
+    answer: "It secured Canada's reputation and was seen as \"the birth of a nation\"; April 9 is celebrated as Vimy Day"
+  56:
+    category: "history"
+    question: "How many Canadians were killed in the First World War?"
+    answer: "60,000 (out of more than 600,000 who served)"
+  57:
+    category: "history"
+    question: "Which was the first province to grant women the right to vote, and when?"
+    answer: "Manitoba, in 1916"
+  58:
+    category: "history"
+    question: "When did Quebec — the last province — grant women the right to vote?"
+    answer: "1940 (thanks to the work of Thérèse Casgrain and others)"
+  59:
+    category: "history"
+    question: "Who was Canada's first woman MP, in 1921?"
+    answer: "Agnes Macphail, a farmer and teacher"
+  60:
+    category: "history"
+    question: "Who founded the women's suffrage movement in Canada?"
+    answer: "Dr. Emily Stowe — the first Canadian woman to practise medicine in Canada"
+  61:
+    category: "history"
+    question: "What does the red poppy worn on Remembrance Day (November 11) mean? [sample test question]"
+    answer: "To remember and honour the sacrifices of Canadians who have served or died in wars up to the present day"
+  62:
+    category: "history"
+    question: "Who composed \"In Flanders Fields\" (1915), often recited on Remembrance Day?"
+    answer: "Canadian medical officer Lieutenant Colonel John McCrae"
+  63:
+    category: "history"
+    question: "What institution was created in Canada in 1934?"
+    answer: "The Bank of Canada — the central bank managing the money supply and financial stability"
+  64:
+    category: "history"
+    question: "On D-Day (June 6, 1944), what did 15,000 Canadian troops storm and capture?"
+    answer: "Juno Beach in Normandy (about one in ten Allied soldiers on D-Day was Canadian)"
+  65:
+    category: "history"
+    question: "How many Canadians were killed in the Second World War?"
+    answer: "44,000 (out of more than one million who served)"
+  66:
+    category: "history"
+    question: "In what year did the Government of Canada apologize for the wartime forcible relocation and property sales of Canadians of Japanese origin?"
+    answer: "1988 (the victims were compensated)"
+  67:
+    category: "history"
+    question: "What was GATT, which became today's World Trade Organization (WTO)?"
+    answer: "The General Agreement on Tariffs and Trade — it opened up the world's restrictive Depression-era trading policies"
+  68:
+    category: "history"
+    question: "In what year did the federal government introduce unemployment insurance (now \"employment insurance\")?"
+    answer: "1940"
+  69:
+    category: "history"
+    question: "In what year were the Canada Pension Plan and the Quebec Pension Plan devised?"
+    answer: "1965"
+  70:
+    category: "history"
+    question: "What is NATO?"
+    answer: "The North Atlantic Treaty Organization — a military alliance of democratic Western countries formed during the Cold War (Canada joined, along with NORAD built with the U.S.)"
+  71:
+    category: "history"
+    question: "In which two years were Quebec sovereignty referendums defeated?"
+    answer: "1980 and 1995"
+  72:
+    category: "history"
+    question: "In what year did Parliament pass the Official Languages Act, guaranteeing French and English services in the federal government across Canada?"
+    answer: "1969"
+  73:
+    category: "history"
+    question: "In what year did Japanese-Canadians — the last group previously denied the vote — gain the right to vote?"
+    answer: "1948"
+  74:
+    category: "history"
+    question: "In what year were Aboriginal people granted the right to vote?"
+    answer: "1960 (today every citizen over 18 may vote)"
+  75:
+    category: "history"
+    question: "Who discovered insulin in Toronto, and why is it significant? [sample test question]"
+    answer: "Sir Frederick Banting and Charles Best — a hormone to treat diabetes that has saved millions of lives worldwide (the guide cites 16 million)"
+  76:
+    category: "history"
+    question: "Which group of artists, founded in 1920, developed a style capturing Canada's rugged wilderness landscapes?"
+    answer: "The Group of Seven"
+  77:
+    category: "history"
+    question: "In what year did Terry Fox begin his cross-country \"Marathon of Hope\"?"
+    answer: "1980 — after losing his right leg to cancer at 18, he ran to raise money for cancer research and became a Canadian hero"
+  78:
+    category: "history"
+    question: "Who invented basketball in Canada in 1891?"
+    answer: "James Naismith"
+  79:
+    category: "government"
+    question: "What are the three key facts about Canada's system of government?"
+    answer: "Canada is a federal state, a parliamentary democracy and a constitutional monarchy"
+  80:
+    category: "government"
+    question: "In Canada, what is the difference between the head of state and the head of government? [sample test question]"
+    answer: "Head of state = the hereditary Sovereign (Queen or King); head of government = the Prime Minister, who actually directs the governing of the country"
+  81:
+    category: "government"
+    question: "What are the three branches of government in Canada? [sample test question]"
+    answer: "The Executive, the Legislative and the Judicial"
+  82:
+    category: "government"
+    question: "What are the three parts of federal Parliament?"
+    answer: "The Sovereign (Queen or King), the Senate and the House of Commons"
+  83:
+    category: "government"
+    question: "How are Senators appointed, and until what age do they serve?"
+    answer: "Appointed by the Governor General on the advice of the Prime Minister; they serve until age 75"
+  84:
+    category: "government"
+    question: "How many steps does a bill pass through before it becomes law in Canada?"
+    answer: "Seven — First Reading, Second Reading, Committee Stage, Report Stage, Third Reading, the same process in the Senate, then Royal Assent"
+  85:
+    category: "government"
+    question: "What must happen before a bill can become law in Canada?"
+    answer: "It must be passed by both chambers (House of Commons and Senate) and receive royal assent, granted by the Governor General on behalf of the Sovereign"
+  86:
+    category: "government"
+    question: "Who is the Governor General of Canada, and how are they appointed?"
+    answer: "The representative of the Sovereign in Canada; appointed by the Sovereign on the advice of the Prime Minister, usually for five years"
+  87:
+    category: "government"
+    question: "In each province, who represents the Sovereign?"
+    answer: "The Lieutenant Governor (appointed by the Governor General on the advice of the PM)"
+  88:
+    category: "government"
+    question: "According to the study guide, what are the three major political parties represented in the House of Commons? [closed set]"
+    answer: "The Conservative Party, the New Democratic Party (NDP) and the Liberal Party"
+  89:
+    category: "government"
+    question: "Which party is known as the Official Opposition (\"Her Majesty's Loyal Opposition\")?"
+    answer: "The opposition party with the most members of the House of Commons"
+  90:
+    category: "government"
+    question: "Criminal law in Canada is the responsibility of which level of government?"
+    answer: "The federal government (along with defence, foreign policy, currency, citizenship, etc.)"
+  91:
+    category: "government"
+    question: "Education and health care in Canada are the responsibility of which level of government?"
+    answer: "The provinces (also natural resources, property and civil rights, highways)"
+  92:
+    category: "government"
+    question: "Which areas do the federal and provincial governments share jurisdiction over (per the study guide)?"
+    answer: "Agriculture and immigration (the responsibilities table also lists environment as shared)"
+  93:
+    category: "elections"
+    question: "When must federal elections in Canada be held?"
+    answer: "On the third Monday in October every four years following the most recent general election (the PM may ask the Governor General to call an earlier one)"
+  94:
+    category: "elections"
+    question: "How many electoral districts (ridings / constituencies) is Canada divided into?"
+    answer: "308"
+  95:
+    category: "elections"
+    question: "In a federal election, how many MPs does each electoral district elect?"
+    answer: "One — the candidate who receives the most votes becomes the MP for that district"
+  96:
+    category: "elections"
+    question: "Who is entitled to vote in Canadian federal elections? [sample test question]"
+    answer: "A Canadian citizen, at least 18 years old on voting day, who is on the voters' list"
+  97:
+    category: "elections"
+    question: "Which neutral agency of Parliament produces the voters' lists from the National Register of Electors?"
+    answer: "Elections Canada (it also mails voter information cards once an election is called)"
+  98:
+    category: "elections"
+    question: "In Canada, are you obliged to tell other people how you voted? [sample test question]"
+    answer: "No — the ballot is secret; no one (including family or employer) has the right to insist you tell them"
+  99:
+    category: "elections"
+    question: "On election day, what must you bring to your polling station?"
+    answer: "Your voter information card and proof of your identity and address"
+  100:
+    category: "elections"
+    question: "How do you mark a federal ballot in Canada?"
+    answer: "Mark an \"X\" in the circle next to the name of the candidate of your choice, behind the screen (the vote is secret)"
+  101:
+    category: "elections"
+    question: "After an election, which party forms the government? [sample test question]"
+    answer: "The leader of the political party with the most seats in the House of Commons is invited by the Governor General to form the government and becomes Prime Minister"
+  102:
+    category: "elections"
+    question: "What is a majority government in Canada?"
+    answer: "When the party in power holds at least half of the seats in the House of Commons (fewer than half = minority government)"
+  103:
+    category: "justice"
+    question: "What is Canada's highest court?"
+    answer: "The Supreme Court of Canada"
+  104:
+    category: "justice"
+    question: "In criminal matters, what does the presumption of innocence mean?"
+    answer: "Everyone is innocent until proven guilty"
+  105:
+    category: "justice"
+    question: "What is \"due process\" in Canadian law?"
+    answer: "The principle that the government must respect all legal rights a person is entitled to under the law"
+  106:
+    category: "justice"
+    question: "In Canada, what are the respective roles of the courts and the police? [sample question pair]"
+    answer: "The courts settle disputes; the police enforce the law (the laws themselves are made by elected representatives)"
+  107:
+    category: "justice"
+    question: "The RCMP serve as the provincial police in all provinces except which two?"
+    answer: "Ontario and Quebec (which have their own provincial police forces)"
+  108:
+    category: "justice"
+    question: "In Canada, are you allowed to question the police about their service or conduct? [sample test question]"
+    answer: "Yes — almost all police forces have a process by which you can bring your concerns and seek action"
+  109:
+    category: "symbols"
+    question: "What has been a symbol of the state in Canada since Confederation in 1867?"
+    answer: "The Crown (a symbol of government — Parliament, legislatures, courts, police services and the Canadian Forces)"
+  110:
+    category: "symbols"
+    question: "When was the current Canadian maple leaf flag raised for the first time?"
+    answer: "1965 (red and white have been Canada's national colours since 1921)"
+  111:
+    category: "symbols"
+    question: "What is Canada's best-known symbol?"
+    answer: "The maple leaf (used on uniforms and insignia since the 1850s)"
+  112:
+    category: "symbols"
+    question: "What does the Latin national motto \"A Mari Usque Ad Mare\" mean?"
+    answer: "\"From sea to sea\""
+  113:
+    category: "symbols"
+    question: "In what year was \"O Canada\" proclaimed the national anthem?"
+    answer: "1980 (it was first sung in Québec City in 1880)"
+  114:
+    category: "symbols"
+    question: "In what year did Canada start its own honours system with the Order of Canada?"
+    answer: "1967, the centennial of Confederation"
+  115:
+    category: "symbols"
+    question: "What is the highest honour available to Canadians? [sample test question]"
+    answer: "The Victoria Cross (V.C.) — awarded for conspicuous bravery or self-sacrifice in the presence of the enemy"
+  116:
+    category: "symbols"
+    question: "Who was the first Canadian to be awarded the Victoria Cross?"
+    answer: "Lieutenant Alexander Roberts Dunn — Charge of the Light Brigade, Balaclava (Crimean War, 1854)"
+  117:
+    category: "dates"
+    question: "What is Canada Day, and when is it?"
+    answer: "July 1 — the anniversary of Confederation (celebrated as \"Dominion Day\" until 1982)"
+  118:
+    category: "dates"
+    question: "When is Remembrance Day, and what do Canadians wear for it?"
+    answer: "November 11; the red poppy (moment of silence at the 11th hour of the 11th day of the 11th month)"
+  119:
+    category: "dates"
+    question: "When is Canadian Thanksgiving Day?"
+    answer: "The second Monday of October"
+  120:
+    category: "dates"
+    question: "On what date is Quebec's Fête nationale (a national public holiday in the province)?"
+    answer: "June 24 — the Feast of St. John the Baptist"
+  121:
+    category: "dates"
+    question: "Which national public holiday honours Sir John A. Macdonald, and when is it?"
+    answer: "Sir John A. Macdonald Day — January 11 (his birthday)"
+  122:
+    category: "economy"
+    question: "Who is Canada's largest international trading partner?"
+    answer: "The United States — over three-quarters of Canadian exports go to the U.S.; each is the other's largest trading partner"
+  123:
+    category: "economy"
+    question: "When did Mexico join the Canada–U.S. free trade agreement as NAFTA?"
+    answer: "1994 (Canada enacted free trade with the United States in 1988)"
+  124:
+    category: "economy"
+    question: "What are the three main types of industry in Canada's economy? [closed set]"
+    answer: "Service industries, manufacturing industries and natural resources industries"
+  125:
+    category: "economy"
+    question: "Which type of industry employs more than 75% of working Canadians?"
+    answer: "Service industries (transportation, education, health care, banking, retail, tourism, government, etc.)"
+  126:
+    category: "regions"
+    question: "What is Canada's rank in size among the countries of the world?"
+    answer: "Second largest — about 10 million square kilometres"
+  127:
+    category: "regions"
+    question: "Which three oceans line Canada's frontiers?"
+    answer: "The Pacific Ocean (west), the Atlantic Ocean (east) and the Arctic Ocean (north)"
+  128:
+    category: "regions"
+    question: "What are the five distinct regions of Canada? [closed set]"
+    answer: "The Atlantic Provinces, Central Canada, the Prairie Provinces, the West Coast and the Northern Territories"
+  129:
+    category: "regions"
+    question: "Which provinces are sometimes referred to as the \"Atlantic Provinces\"? [sample test question]"
+    answer: "Newfoundland and Labrador, Prince Edward Island, Nova Scotia and New Brunswick"
+  130:
+    category: "regions"
+    question: "In what year was Ottawa chosen as Canada's capital?"
+    answer: "1857 (chosen by Queen Victoria)"
+  131:
+    category: "regions"
+    question: "How many provinces and how many territories does Canada have?"
+    answer: "Ten provinces and three territories"
+  132:
+    category: "regions"
+    question: "What is the capital of Canada?"
+    answer: "Ottawa (on the Ottawa River; the country's fourth largest metropolitan area)"
+  133:
+    category: "regions"
+    question: "What is the capital of Newfoundland and Labrador?"
+    answer: "St. John's"
+  134:
+    category: "regions"
+    question: "What is the capital of Prince Edward Island?"
+    answer: "Charlottetown"
+  135:
+    category: "regions"
+    question: "What is the capital of Nova Scotia?"
+    answer: "Halifax (Canada's largest east-coast port and home to its largest naval base)"
+  136:
+    category: "regions"
+    question: "What is the capital of New Brunswick?"
+    answer: "Fredericton"
+  137:
+    category: "regions"
+    question: "What is the capital of Quebec?"
+    answer: "Québec City (Montreal is the province's second city and Canada's second largest city)"
+  138:
+    category: "regions"
+    question: "What is the capital of Ontario?"
+    answer: "Toronto (also Canada's largest city and its main financial centre)"
+  139:
+    category: "regions"
+    question: "What is the capital of Manitoba?"
+    answer: "Winnipeg"
+  140:
+    category: "regions"
+    question: "What is the capital of Saskatchewan?"
+    answer: "Regina (home of the RCMP training academy)"
+  141:
+    category: "regions"
+    question: "What is the capital of Alberta?"
+    answer: "Edmonton (Banff National Park, established in 1885, is also in Alberta)"
+  142:
+    category: "regions"
+    question: "What is the capital of British Columbia? [your province]"
+    answer: "Victoria (a tourist centre and headquarters of the navy's Pacific fleet)"
+  143:
+    category: "regions"
+    question: "What is the capital of the Northwest Territories?"
+    answer: "Yellowknife — called the \"diamond capital of North America\""
+  144:
+    category: "regions"
+    question: "What is the capital of Nunavut?"
+    answer: "Iqaluit (formerly Frobisher Bay)"
+  145:
+    category: "regions"
+    question: "What is the capital of the Yukon Territory?"
+    answer: "Whitehorse"
+  146:
+    category: "regions"
+    question: "Which Great Lake is the largest fresh water lake in the world?"
+    answer: "Lake Superior (five Great Lakes lie between Ontario and the U.S.; Lake Michigan is entirely in the U.S.)"
+  147:
+    category: "regions"
+    question: "Which Atlantic province is known for the world's highest tides, in the Bay of Fundy?"
+    answer: "Nova Scotia"
+  148:
+    category: "regions"
+    question: "Which is Canada's smallest province and the \"birthplace of Confederation\"?"
+    answer: "Prince Edward Island (known for red soil, beaches, potatoes; connected by the Confederation Bridge)"
+  149:
+    category: "regions"
+    question: "What is the largest and busiest port in Canada?"
+    answer: "The Port of Vancouver (Canada's gateway to the Asia-Pacific)"
+  150:
+    category: "regions"
+    question: "What is the highest mountain in Canada, located in the Yukon?"
+    answer: "Mount Logan (named after Sir William Logan, founder of the Geological Survey of Canada)"
+  151:
+    category: "regions"
+    question: "In which territory does the Mackenzie River flow — North America's second-longest river system after the Mississippi?"
+    answer: "The Northwest Territories (~4,200 km)"
+  152:
+    category: "regions"
+    question: "What does \"Nunavut\" mean in Inuktitut?"
+    answer: "\"Our land\" (established 1999 from the eastern part of the NWT; ~85% of its population is Inuit)"
+  153:
+    category: "regions"
+    question: "Why is Canada's North called the \"Land of the Midnight Sun\"?"
+    answer: "At the height of summer, daylight can last up to 24 hours (in winter, darkness sets in for three months)"
+  154:
+    category: "regions"
+    question: "According to the study guide, what is Canada's population?"
+    answer: "About 34 million people (a majority live in cities and towns)"
+  155:
+    category: "exam"
+    question: "Name two key documents that contain Canada's rights and freedoms. [sample test question]"
+    answer: "Magna Carta (1215) and the Canadian Charter of Rights and Freedoms (entrenched 1982)"
+  156:
+    category: "exam"
+    question: "What are the three levels of government in Canada? [sample test question]"
+    answer: "Federal, provincial/territorial and municipal"
+  157:
+    category: "exam"
+    question: "Which age range of citizenship applicants must take the knowledge (citizenship) test?"
+    answer: "Ages 18 to 54 — adult applicants 55 years of age and over are exempt"
+  158:
+    category: "exam"
+    question: "After passing the citizenship test, what do you receive, and what happens at the ceremony?"
+    answer: "A Notice to Appear to Take the Oath of Citizenship; at the ceremony you take the Oath of Citizenship, sign the oath form and receive your Canadian Citizenship Certificate"
